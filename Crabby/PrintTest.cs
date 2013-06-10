@@ -8,6 +8,5 @@ namespace Crabby
 {
     class PrintTest
     {
-       
     }
 }
