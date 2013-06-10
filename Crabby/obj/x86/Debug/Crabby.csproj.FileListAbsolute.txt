@@ -1,0 +1,6 @@
+c:\Users\John\Documents\Visual Studio 2012\Projects\Crabby\Crabby\obj\x86\Debug\Crabby.csprojResolveAssemblyReference.cache
+c:\Users\John\Documents\Visual Studio 2012\Projects\Crabby\Crabby\obj\x86\Debug\App.g.cs
+c:\Users\John\Documents\Visual Studio 2012\Projects\Crabby\Crabby\obj\x86\Debug\GamePage.g.cs
+c:\Users\John\Documents\Visual Studio 2012\Projects\Crabby\Crabby\obj\x86\Debug\Crabby.g.resources
+c:\Users\John\Documents\Visual Studio 2012\Projects\Crabby\Crabby\obj\x86\Debug\Crabby.Resources.AppResources.resources
+c:\Users\John\Documents\Visual Studio 2012\Projects\Crabby\Crabby\obj\x86\Debug\Crabby.csproj.GenerateResource.Cache
