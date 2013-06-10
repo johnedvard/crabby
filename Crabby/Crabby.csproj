@@ -91,6 +91,28 @@
       <DependentUpon>AppResources.resx</DependentUpon>
     </Compile>
     <Compile Include="ScoreBoard.cs" />
+    <Compile Include="Spine-csharp\Animation.cs" />
+    <Compile Include="Spine-csharp\AnimationState.cs" />
+    <Compile Include="Spine-csharp\AnimationStateData.cs" />
+    <Compile Include="Spine-csharp\Atlas.cs" />
+    <Compile Include="Spine-csharp\Attachments\AtlasAttachmentLoader.cs" />
+    <Compile Include="Spine-csharp\Attachments\Attachment.cs" />
+    <Compile Include="Spine-csharp\Attachments\AttachmentLoader.cs" />
+    <Compile Include="Spine-csharp\Attachments\AttachmentType.cs" />
+    <Compile Include="Spine-csharp\Attachments\RegionAttachment.cs" />
+    <Compile Include="Spine-csharp\Bone.cs" />
+    <Compile Include="Spine-csharp\BoneData.cs" />
+    <Compile Include="Spine-csharp\Json.cs" />
+    <Compile Include="Spine-csharp\Skeleton.cs" />
+    <Compile Include="Spine-csharp\SkeletonData.cs" />
+    <Compile Include="Spine-csharp\SkeletonJson.cs" />
+    <Compile Include="Spine-csharp\Skin.cs" />
+    <Compile Include="Spine-csharp\Slot.cs" />
+    <Compile Include="Spine-csharp\SlotData.cs" />
+    <Compile Include="Spine-xna\SkeletonRenderer.cs" />
+    <Compile Include="Spine-xna\SpriteBatcher.cs" />
+    <Compile Include="Spine-xna\Util.cs" />
+    <Compile Include="Spine-xna\XnaTextureLoader.cs" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
@@ -116,6 +138,9 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Content\Fish_Small_v2.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\evil_eel.xnb">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <None Include="Properties\AppManifest.xml" />

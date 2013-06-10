@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.Devices.Sensors;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
-
+using Spine;
 using Microsoft.Xna.Framework.Input.Touch;
 namespace Crabby
 {
