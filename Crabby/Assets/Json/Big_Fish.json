@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "Fish_Big_Body.png",
+	"frame": {"x":2,"y":2,"w":61,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":53},
+	"sourceSize": {"w":61,"h":53}
+},
+{
+	"filename": "Fish_Big_Fin.png",
+	"frame": {"x":102,"y":44,"w":19,"h":21},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":21},
+	"sourceSize": {"w":19,"h":21}
+},
+{
+	"filename": "Fish_Big_Hair.png",
+	"frame": {"x":65,"y":44,"w":30,"h":35},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":35},
+	"sourceSize": {"w":30,"h":35}
+},
+{
+	"filename": "Fish_Big_Tail.png",
+	"frame": {"x":65,"y":2,"w":40,"h":41},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":41},
+	"sourceSize": {"w":40,"h":41}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "Big_Fish.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cbe4c3a8a13c728a6405406024942a85$"
+}
+}
