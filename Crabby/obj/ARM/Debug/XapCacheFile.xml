@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<xapCache source="C:\Users\John\Git\crabby\Crabby\bin\WindowsPhone\ARM\Debug\Crabby_Debug_ARM.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="10.06.2013 14:33:04">
   <file source="C:\Users\John\Git\crabby\Crabby\obj\ARM\Debug\Crabby.dll" archivePath="Crabby.dll" lastWriteTime="10.06.2013 14:33:03" />
   <file source="C:\Users\John\Git\crabby\Crabby\Content\Crabby_v2.xnb" archivePath="Content\Crabby_v2.xnb" lastWriteTime="06.06.2013 14:11:07" />
@@ -25,4 +26,45 @@
   <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.MediaFoundation.xml" archivePath="SharpDX.MediaFoundation.xml" lastWriteTime="28.12.2012 17:17:34" />
   <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.DXGI.xml" archivePath="SharpDX.DXGI.xml" lastWriteTime="28.12.2012 17:17:34" />
   <file source="C:\Users\John\Git\crabby\Crabby\bin\WindowsPhone\ARM\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="06.06.2013 15:48:50" />
+=======
+﻿<xapCache source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\bin\WindowsPhone\ARM\Debug\Crabby_Debug_ARM.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="6/10/2013 5:48:38 PM">
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\obj\ARM\Debug\Crabby.dll" archivePath="Crabby.dll" lastWriteTime="6/10/2013 5:48:36 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\Content\Crabby_v2.xnb" archivePath="Content\Crabby_v2.xnb" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\Content\MyFont.xnb" archivePath="Content\MyFont.xnb" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\Content\Crabby_claw_v2.xnb" archivePath="Content\Crabby_claw_v2.xnb" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\Content\Fish_Big_v2.xnb" archivePath="Content\Fish_Big_v2.xnb" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\Content\Fish_Small_v2.xnb" archivePath="Content\Fish_Small_v2.xnb" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\Content\evil_eel.xnb" archivePath="Content\evil_eel.xnb" lastWriteTime="6/10/2013 5:47:08 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\bin\WindowsPhone\ARM\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="6/10/2013 5:22:09 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\bin\WindowsPhone\ARM\Debug\Content\Crabby_v2.xnb" archivePath="Content\Crabby_v2.xnb" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\bin\WindowsPhone\ARM\Debug\Content\MyFont.xnb" archivePath="Content\MyFont.xnb" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\bin\WindowsPhone\ARM\Debug\Content\Crabby_claw_v2.xnb" archivePath="Content\Crabby_claw_v2.xnb" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\bin\WindowsPhone\ARM\Debug\Content\Fish_Big_v2.xnb" archivePath="Content\Fish_Big_v2.xnb" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\bin\WindowsPhone\ARM\Debug\Content\Fish_Small_v2.xnb" archivePath="Content\Fish_Small_v2.xnb" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\bin\WindowsPhone\ARM\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\bin\WindowsPhone\ARM\Debug\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\bin\WindowsPhone\ARM\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\bin\WindowsPhone\ARM\Debug\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\bin\WindowsPhone\ARM\Debug\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\bin\WindowsPhone\ARM\Debug\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\MonoGame.Framework.dll" archivePath="MonoGame.Framework.dll" lastWriteTime="2/25/2013 5:42:12 PM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.Direct3D11.dll" archivePath="SharpDX.Direct3D11.dll" lastWriteTime="12/28/2012 5:17:34 PM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.dll" archivePath="SharpDX.dll" lastWriteTime="12/28/2012 5:17:34 PM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.XAudio2.dll" archivePath="SharpDX.XAudio2.dll" lastWriteTime="12/28/2012 5:17:34 PM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.MediaFoundation.dll" archivePath="SharpDX.MediaFoundation.dll" lastWriteTime="12/28/2012 5:17:34 PM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.DXGI.dll" archivePath="SharpDX.DXGI.dll" lastWriteTime="12/28/2012 5:17:34 PM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.Direct3D11.xml" archivePath="SharpDX.Direct3D11.xml" lastWriteTime="12/28/2012 5:17:34 PM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.xml" archivePath="SharpDX.xml" lastWriteTime="12/28/2012 5:17:34 PM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.XAudio2.xml" archivePath="SharpDX.XAudio2.xml" lastWriteTime="12/28/2012 5:17:34 PM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.MediaFoundation.xml" archivePath="SharpDX.MediaFoundation.xml" lastWriteTime="12/28/2012 5:17:34 PM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.DXGI.xml" archivePath="SharpDX.DXGI.xml" lastWriteTime="12/28/2012 5:17:34 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="6/10/2013 5:21:33 PM" />
+  <file source="C:\Users\johnonym\Documents\Visual Studio 2012\Projects\git\crabby\Crabby\bin\WindowsPhone\ARM\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="6/10/2013 5:21:34 PM" />
+>>>>>>> f1c133d7bdc8bd9fcb29a9bcbb4f6187aaf43329
 </xapCache>

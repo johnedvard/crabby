@@ -103,6 +103,20 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\Fish_Big\Big_Fish.png" />
+    <Content Include="Assets\Crabby\Crabby.png" />
+    <Content Include="Assets\Crabby\Crabby_Claw.png" />
+    <Content Include="Assets\Crabby\Crabby_claw_v2.png" />
+    <Content Include="Assets\Crabby\Crabby_v2.png" />
+    <Content Include="Assets\Evil_Eel.png" />
+    <Content Include="Assets\Fish_Big\Fish_Big.png" />
+    <Content Include="Assets\Fish_Big\Fish_Big_Body.png" />
+    <Content Include="Assets\Fish_Big\Fish_Big_Fin.png" />
+    <Content Include="Assets\Fish_Big\Fish_Big_Hair.png" />
+    <Content Include="Assets\Fish_Big\Fish_Big_Tail.png" />
+    <Content Include="Assets\Fish_Big\Fish_Big_v2.png" />
+    <Content Include="Assets\Fish_Small\Fish_Small.png" />
+    <Content Include="Assets\Fish_Small\Fish_Small_v2.png" />
     <Content Include="Content\Crabby_v2.xnb">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -118,6 +132,11 @@
     <Content Include="Content\Fish_Small_v2.xnb">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="Assets\Json\Big_Fish.json" />
+    <None Include="Assets\Illustrator\Crabby.ai" />
+    <None Include="Assets\Illustrator\Crabby_claw.ai" />
+    <None Include="Assets\Illustrator\Fish_Big.ai" />
+    <None Include="Assets\Illustrator\Fish_Small.ai" />
     <None Include="Properties\AppManifest.xml" />
     <None Include="Properties\WMAppManifest.xml">
       <SubType>Designer</SubType>
